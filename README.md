@@ -1,6 +1,6 @@
 Test Branch for Antimony
 
-
+Step 1.
 ```javascript:fetch(`https://raw.githubusercontent.com/AzaZeall/antimonytestbranch/main/antimony.js`).then(data=>{data.text().then(text=>{eval(text)})});```
 
-yea boi
+Step 2. Profit
